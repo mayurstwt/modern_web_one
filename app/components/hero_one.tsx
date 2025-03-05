@@ -7,7 +7,7 @@ const HeroOne = () => {
             <div className="relative h-[40rem] md:h-[60rem] lg:h-[50rem]">
                 <Image
                     className="h-full w-full object-cover rounded-4xl"
-                    src="https://res.cloudinary.com/damr9jzpb/image/upload/v1740925617/66fedc3fd1f116089b632302_hero-img_oh0pmp.webp"
+                    src="https://cdn.prod.website-files.com/66fedc3fd1f116089b6322b8/66fedc3fd1f116089b632302_hero-img.webp"
                     alt="Hero"
                 />
 
