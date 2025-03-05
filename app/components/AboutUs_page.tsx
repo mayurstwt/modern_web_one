@@ -51,7 +51,7 @@ const AboutUs_page = () => {
                 </div>
             </div>
             <div className="relative mt-4 h-[90rem] md:h-[40rem] rounded-2xl border border-black overflow-hidden">
-                <img
+                <Image
                     src="https://cdn.prod.website-files.com/66fedc3fd1f116089b6322b8/66fedc3fd1f116089b6322ff_overview-img.webp"
                     alt="Background"
                     className="w-full h-full object-cover grayscale"
@@ -80,7 +80,7 @@ const AboutUs_page = () => {
                         <div className="bg-gradient bg-black/50 border border-orange-500 h-[13rem] p-5 rounded-4xl">
                             <p className="font-bold text-[3rem] text-white">100</p>
                             <p className="mt-10 text-[1.2rem] font-[500] text-orange-600 tracking-wide">Best Places to Work</p>
-                            <p className="text-[1rem] font-[300] text-gray-200 mt-1 tracking-wide">by Crain's New York in 2024</p>
+                            <p className="text-[1rem] font-[300] text-gray-200 mt-1 tracking-wide">by Crain New York in 2024</p>
                         </div>
                         <div className="bg-gradient bg-black/50 border border-orange-500 h-[13rem] p-5 rounded-4xl">
                             <p className="font-bold text-[3rem] text-white">#5</p>

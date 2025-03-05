@@ -1,10 +1,11 @@
+import Image from 'next/image'
 import React from 'react'
 
 const HeroOne = () => {
     return (
         <div className='max-w-[95rem] mx-auto px-6 flex py-20 justify-center overflow-x-clip'>
             <div className="relative h-[40rem] md:h-[60rem] lg:h-[50rem]">
-                <img
+                <Image
                     className="h-full w-full object-cover rounded-4xl"
                     src="https://res.cloudinary.com/damr9jzpb/image/upload/v1740925617/66fedc3fd1f116089b632302_hero-img_oh0pmp.webp"
                     alt="Hero"
